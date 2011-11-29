@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='IPRentalClient',
-    version='0.1',
+    version='0.2',
     author='Syed M Ahmed',
     author_email='syed1.mushtaq@gmail.com',
     packages=['iprental'],
